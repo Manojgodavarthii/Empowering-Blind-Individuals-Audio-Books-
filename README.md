@@ -112,7 +112,11 @@ sudo apt install tesseract-ocr
 ## Authors
 
 * Godavarthi Naga Manoj Balaji
+## Co-Authors
+* Ayush Chetri
 * Thrisha Reddy P
+* Chandana G S
+* Hruthika S N
 * Munnangi Suma Reddy
 
 ## License
